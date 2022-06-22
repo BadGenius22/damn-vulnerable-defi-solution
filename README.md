@@ -4,9 +4,11 @@
 
 Featuring flash loans, price oracles, governance, NFTs, lending pools, smart contract wallets, timelocks, and more!
 
-## Play
+## How to Play
 
 Visit [damnvulnerabledefi.xyz](https://damnvulnerabledefi.xyz)
+
+#1. Setup Enivronment
 
 ## Disclaimer
 
