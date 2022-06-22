@@ -8,7 +8,7 @@ Featuring flash loans, price oracles, governance, NFTs, lending pools, smart con
 
 Visit [damnvulnerabledefi.xyz](https://damnvulnerabledefi.xyz)
 
-##1. Setup Enivronment
+# 1. Setup Enivronment
 
 ## Disclaimer
 
