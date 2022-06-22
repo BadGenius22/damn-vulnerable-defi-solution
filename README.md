@@ -10,7 +10,7 @@ Visit [damnvulnerabledefi.xyz](https://damnvulnerabledefi.xyz)
 
 ### 1. Setup Enivronment
 Install yarn in your computer.
-**For Mac M1 (Apple Sillicon user)** you need a little bit of workaround.
+**For Mac M1 (Apple Sillicon)** user you need a little bit of workaround.
 I use this instructions: https://www.igeeksblog.com/how-to-install-homebrew-on-mac/.
 
 ### 2. Focus on "Challenge.js" file in Test folder
