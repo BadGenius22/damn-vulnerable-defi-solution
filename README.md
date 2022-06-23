@@ -21,7 +21,7 @@ You need to insert some lines of codes in order to complete the challenges.
 You can find it in contracts/attacker-contracts/.
 
 ### 4. Run the code
-You can Run the the code by simply type **"yarn run <name of the challenge>" (ex: yarn run puppet)** in your terminal.
+You can Run the the code by simply type **"yarn run 'name of the challenge'" (ex: yarn run puppet)** in your terminal.
 If you pass the challenge it will show in your terminal that you are passing the challenge.
 
 ## Disclaimer
